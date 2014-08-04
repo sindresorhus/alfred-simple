@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>background</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
+	ZmZmg3H2cD+DcfZwP4Nx9nA/AYY=
+	</data>
+	<key>border</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAQEBAIY=
+	</data>
+	<key>cornerRoundness</key>
+	<integer>3</integer>
+	<key>credits</key>
+	<string>Sindre Sorhus</string>
+	<key>imageStyle</key>
+	<integer>4</integer>
+	<key>name</key>
+	<string>Simple</string>
+	<key>resultPaddingSize</key>
+	<integer>4</integer>
+	<key>resultSelectedBackgroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg0mhcT+DACR1P4MN7nc/g5qZGT+G
+	</data>
+	<key>resultSelectedSubtextColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg0go1T6DiOnzPoNDFgA/AYY=
+	</data>
+	<key>resultSelectedTextColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg1joiz6DL0agPoNQpac+AYY=
+	</data>
+	<key>resultSubtextColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
+	ZmZmg+acJz+DtrEtP4O6YTY/AYY=
+	</data>
+	<key>resultSubtextFont</key>
+	<string>Helvetica Neue</string>
+	<key>resultSubtextFontSize</key>
+	<integer>1</integer>
+	<key>resultTextColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmgzMd8z6DqIj+PoPZnAg/AYY=
+	</data>
+	<key>resultTextFont</key>
+	<string>Helvetica Neue</string>
+	<key>resultTextFontSize</key>
+	<integer>4</integer>
+	<key>scrollbarColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
+	ZmZmg4/CVT+Dj8JVP4OPwlU/AYY=
+	</data>
+	<key>searchBackgroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
+	ZmZmg/LwcD+D8vBwP4Py8HA/AYY=
+	</data>
+	<key>searchFont</key>
+	<string>Helvetica Neue</string>
+	<key>searchFontSize</key>
+	<integer>4</integer>
+	<key>searchForegroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg1joiz6DL0agPoNQpac+AYY=
+	</data>
+	<key>searchPaddingSize</key>
+	<integer>0</integer>
+	<key>searchSelectionBackgroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZoMAAEA/AYY=
+	</data>
+	<key>searchSelectionForegroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg1joiz6DL0agPoNQpac+AYY=
+	</data>
+	<key>separatorColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg/1NYz+DP0xjP4M9TWM/AYY=
+	</data>
+	<key>shortcutColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg2duQT+D7WxBP4PDbUE/AYY=
+	</data>
+	<key>shortcutFont</key>
+	<string>Helvetica Neue</string>
+	<key>shortcutFontSize</key>
+	<integer>1</integer>
+	<key>shortcutSelectedColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg1joiz6DL0agPoNQpac+AYY=
+	</data>
+	<key>uid</key>
+	<string>alfred.theme.custom.42ED6F4F-9555-4FA9-8B60-0F89C8AD7B99</string>
+	<key>widthSize</key>
+	<integer>3</integer>
+</dict>
+</plist>
