@@ -4,8 +4,8 @@
 <dict>
 	<key>background</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg3H2cD+DcfZwP4Nx9nA/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmgwf0bz+DMPJvP4M7828/AYY=
 	</data>
 	<key>border</key>
 	<data>
@@ -25,12 +25,12 @@
 	<key>resultSelectedBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg0mhcT+DACR1P4MN7nc/g5qZGT+G
+	ZmZmg2+edj+DLUB6P4PVwHw/g5qZGT+G
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg0go1T6DiOnzPoNDFgA/AYY=
+	ZmZmg6c79D6D92kHP4NMaQw/AYY=
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
@@ -39,11 +39,11 @@
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg+acJz+DtrEtP4O6YTY/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg6cYFz+DCs4dP4MF4yc/AYY=
 	</data>
 	<key>resultSubtextFont</key>
-	<string>Helvetica Neue</string>
+	<string>Helvetica Neue Light</string>
 	<key>resultSubtextFontSize</key>
 	<integer>1</integer>
 	<key>resultTextColor</key>
@@ -52,7 +52,7 @@
 	ZmZmgzMd8z6DqIj+PoPZnAg/AYY=
 	</data>
 	<key>resultTextFont</key>
-	<string>Helvetica Neue</string>
+	<string>Helvetica Neue Light</string>
 	<key>resultTextFontSize</key>
 	<integer>4</integer>
 	<key>scrollbarColor</key>
@@ -62,20 +62,20 @@
 	</data>
 	<key>searchBackgroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg/LwcD+D8vBwP4Py8HA/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmgwf0bz+DMPJvP4M7828/AYY=
 	</data>
 	<key>searchFont</key>
-	<string>Helvetica Neue</string>
+	<string>Helvetica Neue Light</string>
 	<key>searchFontSize</key>
 	<integer>4</integer>
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg1joiz6DL0agPoNQpac+AYY=
+	ZmZmg4N8Zz6DuSyEPoMwHoo+AYY=
 	</data>
 	<key>searchPaddingSize</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>searchSelectionBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
@@ -97,7 +97,7 @@
 	ZmZmg2duQT+D7WxBP4PDbUE/AYY=
 	</data>
 	<key>shortcutFont</key>
-	<string>Helvetica Neue</string>
+	<string>Helvetica Neue Light</string>
 	<key>shortcutFontSize</key>
 	<integer>1</integer>
 	<key>shortcutSelectedColor</key>
