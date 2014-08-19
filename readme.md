@@ -7,7 +7,7 @@
 
 ## Install
 
-[Download](https://github.com/sindresorhus/alfred-simple/raw/master/simple.alfredappearance), by right-clicking & "save as", then double-click the downloaded file.
+[Download](https://github.com/sindresorhus/alfred-simple/raw/master/simple.alfredappearance), by right-clicking & "save as", then double-click the downloaded file.  (You’ll need the [Powerpack](http://www.alfredapp.com/powerpack/) for custom themes).
 
 
 ## Options
