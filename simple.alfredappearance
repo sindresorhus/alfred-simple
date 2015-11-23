@@ -43,7 +43,7 @@
 	ZmZmg6cYFz+DCs4dP4MF4yc/AYY=
 	</data>
 	<key>resultSubtextFont</key>
-	<string>Helvetica Neue Light</string>
+	<string>System Light</string>
 	<key>resultSubtextFontSize</key>
 	<integer>1</integer>
 	<key>resultTextColor</key>
@@ -52,7 +52,7 @@
 	ZmZmgzMd8z6DqIj+PoPZnAg/AYY=
 	</data>
 	<key>resultTextFont</key>
-	<string>Helvetica Neue Light</string>
+	<string>System Light</string>
 	<key>resultTextFontSize</key>
 	<integer>4</integer>
 	<key>scrollbarColor</key>
@@ -66,7 +66,7 @@
 	ZmZmgwf0bz+DMPJvP4M7828/AYY=
 	</data>
 	<key>searchFont</key>
-	<string>Helvetica Neue Light</string>
+	<string>System Light</string>
 	<key>searchFontSize</key>
 	<integer>4</integer>
 	<key>searchForegroundColor</key>
@@ -97,7 +97,7 @@
 	ZmZmg2duQT+D7WxBP4PDbUE/AYY=
 	</data>
 	<key>shortcutFont</key>
-	<string>Helvetica Neue Light</string>
+	<string>System Light</string>
 	<key>shortcutFontSize</key>
 	<integer>1</integer>
 	<key>shortcutSelectedColor</key>
