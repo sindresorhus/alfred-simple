@@ -1,113 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>background</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgwf0bz+DMPJvP4M7828/AYY=
-	</data>
-	<key>border</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQEBAIY=
-	</data>
-	<key>cornerRoundness</key>
-	<integer>3</integer>
-	<key>credits</key>
-	<string>Sindre Sorhus</string>
-	<key>imageStyle</key>
-	<integer>4</integer>
-	<key>name</key>
-	<string>Simple</string>
-	<key>resultPaddingSize</key>
-	<integer>4</integer>
-	<key>resultSelectedBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg2+edj+DLUB6P4PVwHw/g5qZGT+G
-	</data>
-	<key>resultSelectedSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg6c79D6D92kHP4NMaQw/AYY=
-	</data>
-	<key>resultSelectedTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg1joiz6DL0agPoNQpac+AYY=
-	</data>
-	<key>resultSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg6cYFz+DCs4dP4MF4yc/AYY=
-	</data>
-	<key>resultSubtextFont</key>
-	<string>System Light</string>
-	<key>resultSubtextFontSize</key>
-	<integer>1</integer>
-	<key>resultTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgzMd8z6DqIj+PoPZnAg/AYY=
-	</data>
-	<key>resultTextFont</key>
-	<string>System Light</string>
-	<key>resultTextFontSize</key>
-	<integer>4</integer>
-	<key>scrollbarColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg4/CVT+Dj8JVP4OPwlU/AYY=
-	</data>
-	<key>searchBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgwf0bz+DMPJvP4M7828/AYY=
-	</data>
-	<key>searchFont</key>
-	<string>System Light</string>
-	<key>searchFontSize</key>
-	<integer>4</integer>
-	<key>searchForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg4N8Zz6DuSyEPoMwHoo+AYY=
-	</data>
-	<key>searchPaddingSize</key>
-	<integer>2</integer>
-	<key>searchSelectionBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoMAAEA/AYY=
-	</data>
-	<key>searchSelectionForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg1joiz6DL0agPoNQpac+AYY=
-	</data>
-	<key>separatorColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/1NYz+DP0xjP4M9TWM/AYY=
-	</data>
-	<key>shortcutColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg2duQT+D7WxBP4PDbUE/AYY=
-	</data>
-	<key>shortcutFont</key>
-	<string>System Light</string>
-	<key>shortcutFontSize</key>
-	<integer>1</integer>
-	<key>shortcutSelectedColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg1joiz6DL0agPoNQpac+AYY=
-	</data>
-	<key>uid</key>
-	<string>alfred.theme.custom.42ED6F4F-9555-4FA9-8B60-0F89C8AD7B99</string>
-	<key>widthSize</key>
-	<integer>3</integer>
-</dict>
-</plist>
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#8C989DFF",
+        "font" : "System Light",
+        "color" : "#A6ADB6E6"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#576266FF",
+        "font" : "System Light",
+        "color" : "#CCCCCBFF"
+      },
+      "backgroundSelected" : "#FFFFFF43",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#576266FF",
+        "font" : "System Light",
+        "color" : "#878D95FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#FEFFFE00",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#576266FF",
+        "font" : "System Light",
+        "color" : "#384043FF"
+      },
+      "backgroundSelected" : "#CACACAFF"
+    },
+    "window" : {
+      "color" : "#FCFEFFD8",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#FEFFFF00",
+      "blur" : 20,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Sindre Sorhus",
+    "separator" : {
+      "color" : "#00000005",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#D4D4D4FF",
+      "thickness" : 2
+    },
+    "name" : "Simple"
+  }
+}

@@ -1,14 +1,15 @@
 # alfred-simple
 
-> Simple theme for [Alfred](http://www.alfredapp.com)
+> Simple theme for [Alfred](https://www.alfredapp.com)
 
 ![](screenshot.png)
 
 
 ## Install
 
-[Download](https://github.com/sindresorhus/alfred-simple/raw/master/simple.alfredappearance), by right-clicking & "save as", then double-click the downloaded file.  
-*You’ll need the [Powerpack](http://www.alfredapp.com/powerpack/) for custom themes.*
+[Install the theme.](https://www.alfredapp.com/extras/theme/r0xYNeBQ1P/)
+
+*You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
 
 
 ## Options
@@ -20,4 +21,4 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
