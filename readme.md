@@ -21,7 +21,8 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
-- [alfred-npms](https://github.com/sindresorhus/alfred-npms)
+- [alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text
+- [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
 
 
 ## License
