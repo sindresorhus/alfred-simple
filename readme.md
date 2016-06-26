@@ -2,7 +2,7 @@
 
 > Simple theme for [Alfred](https://www.alfredapp.com)
 
-![](screenshot.png)
+<img src="screenshot.jpg" width="823">
 
 
 ## Install
@@ -16,7 +16,12 @@
 
 Use the following options to have it look exactly like in the screenshot above.
 
-<img src="screenshot-options.png" width="463">
+<img src="screenshot-options.png" width="494">
+
+
+## Related
+
+- [alfred-npms](https://github.com/sindresorhus/alfred-npms)
 
 
 ## License
