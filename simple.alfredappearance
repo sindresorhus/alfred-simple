@@ -4,9 +4,9 @@
       "textSpacing" : 8,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#8C989DFF",
+        "colorSelected" : "#6D777BFF",
         "font" : "System Light",
-        "color" : "#A6ADB6E6"
+        "color" : "#91979FE6"
       },
       "shortcut" : {
         "size" : 13,
@@ -14,12 +14,12 @@
         "font" : "System Light",
         "color" : "#CCCCCBFF"
       },
-      "backgroundSelected" : "#FFFFFF43",
+      "backgroundSelected" : "#FFFFFF4C",
       "text" : {
         "size" : 24,
-        "colorSelected" : "#576266FF",
+        "colorSelected" : "#4E585CFF",
         "font" : "System Light",
-        "color" : "#878D95FF"
+        "color" : "#7E848CFF"
       },
       "iconPaddingHorizontal" : 5,
       "paddingVertical" : 8,
