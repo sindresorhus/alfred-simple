@@ -21,6 +21,7 @@ Use the following options to have it look exactly like in the screenshot above.
 
 ## Related
 
+- [alfred-simple-dark](https://github.com/uschek/alfred-simple-dark) - Dark version of this theme
 - [alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text
 - [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
 
