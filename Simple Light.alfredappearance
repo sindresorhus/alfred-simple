@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#7B7B7BFF",
+        "font" : "System Light",
+        "color" : "#7B7B7BCB"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#B9B9B9FF",
+        "font" : "System Light",
+        "color" : "#7B7B7B98"
+      },
+      "backgroundSelected" : "#FFFFFF58",
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#252525FF",
+        "font" : "System Light",
+        "color" : "#7B7B7BFF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 8,
+      "iconSize" : 46
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#FEFFFE00",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#576266FF",
+        "font" : "System Light",
+        "color" : "#252525FF"
+      },
+      "backgroundSelected" : "#CACACAFF"
+    },
+    "window" : {
+      "color" : "#FBFEFFCB",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#FEFFFF00",
+      "blur" : 40,
+      "roundness" : 6,
+      "paddingVertical" : 10
+    },
+    "credit" : "Sindre Sorhus",
+    "separator" : {
+      "color" : "#00000005",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#B9B9B93F",
+      "thickness" : 2
+    },
+    "name" : "Simple Light"
+  }
+}
