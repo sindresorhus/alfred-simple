@@ -8,7 +8,7 @@
 
 ## Install
 
-- [Dark theme](https://www.alfredapp.com/extras/theme/DzfFL2CrvZ/)
+- [Dark theme](https://www.alfredapp.com/extras/theme/tDwbJXihRl/)
 - [Light theme](https://www.alfredapp.com/extras/theme/V9h8Iyb9cJ/)
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
