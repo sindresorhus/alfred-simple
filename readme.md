@@ -13,6 +13,16 @@
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
 
+Also, you can easily install both, or either theme with [Homebrew](https://brew.sh)[-alfred](https://github.com/danielbayley/homebrew-alfred):
+
+```sh
+brew tap danielbayley/alfred
+brew cask install alfred-theme-simple-dark
+# or
+brew cask install alfred-theme-simple-light
+# or both
+brew cask install alfred-theme-simple
+```
 
 ## Related
 
