@@ -13,7 +13,7 @@
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
 
-Also, you can easily install both, or either theme with [Homebrew](https://brew.sh)[-alfred](https://github.com/danielbayley/homebrew-alfred):
+Also, you can easily install both or either theme with [homebrew-alfred](https://github.com/danielbayley/homebrew-alfred):
 
 ```sh
 brew tap danielbayley/alfred
