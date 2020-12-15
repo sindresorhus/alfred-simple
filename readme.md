@@ -5,11 +5,10 @@
 <img src="screenshot-dark.png" width="777">
 <img src="screenshot-light.png" width="777">
 
-
 ## Install
 
-- [Dark theme](https://www.alfredapp.com/extras/theme/tDwbJXihRl/)
-- [Light theme](https://www.alfredapp.com/extras/theme/V9h8Iyb9cJ/)
+- [Dark theme](https://www.alfredapp.com/extras/theme/p0sqEZNzT0/)
+- [Light theme](https://www.alfredapp.com/extras/theme/wYHL5VH6EE/)
 
 *You need the [Powerpack](https://www.alfredapp.com/powerpack/) for custom themes.*
 

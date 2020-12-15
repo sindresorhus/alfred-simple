@@ -14,7 +14,7 @@
         "font" : "System Light",
         "color" : "#6E7073FF"
       },
-      "backgroundSelected" : "#00000054",
+      "backgroundSelected" : "#FDFCFF10",
       "text" : {
         "size" : 22,
         "colorSelected" : "#E1E1E2FF",
@@ -22,12 +22,13 @@
         "color" : "#A8A8ABFF"
       },
       "iconPaddingHorizontal" : 10,
+      "roundness" : 8,
       "paddingVertical" : 8,
       "iconSize" : 46
     },
     "search" : {
-      "paddingVertical" : 2,
-      "background" : "#FEFFFE00",
+      "backgroundSelected" : "#C9C9C91C",
+      "paddingHorizontal" : 8,
       "spacing" : 10,
       "text" : {
         "size" : 36,
@@ -35,19 +36,22 @@
         "font" : "System Light",
         "color" : "#E1E1E2FF"
       },
-      "backgroundSelected" : "#C9C9C91C"
+      "background" : "#FEFFFE00",
+      "roundness" : 0,
+      "paddingVertical" : 2
     },
     "window" : {
       "color" : "#111113CC",
       "paddingHorizontal" : 10,
       "width" : 620,
-      "borderPadding" : 10,
+      "borderPadding" : 0,
       "borderColor" : "#FEFFFF00",
-      "blur" : 40,
+      "blur" : 0,
       "roundness" : 6,
       "paddingVertical" : 10
     },
     "credit" : "Sindre Sorhus",
+    "visualEffectMode" : 2,
     "separator" : {
       "color" : "#00000005",
       "thickness" : 1
