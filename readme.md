@@ -16,11 +16,14 @@ Also, you can easily install both or either theme with [homebrew-alfred](https:/
 
 ```sh
 brew tap danielbayley/alfred
-brew cask install alfred-theme-simple-dark
+
+brew install --cask alfred-theme-simple-dark
+
 # or
-brew cask install alfred-theme-simple-light
+brew install --cask alfred-theme-simple-light
+
 # or both
-brew cask install alfred-theme-simple
+brew install --cask alfred-theme-simple
 ```
 
 ## Related
